@@ -1,19 +1,25 @@
-# 🌐 Text Analyzer by Digit Reboot 🚀
+## Privacy Policy for Text Analyzer by Digit Reboot
 
-Instantly analyze the text on any webpage with just one click! This powerful tool is perfect for students, writers, and professionals who need quick statistics on their selected text. 📊
+This Privacy Policy outlines the types of information that **Text Analyzer by Digit Reboot** collects, uses, and how it is protected. We respect your privacy and are committed to protecting it through our compliance with this policy.
 
-## Features
+### 1. Information Collection and Use
+- **Selected Text:** The extension accesses the text you select on any webpage to count words, characters, and paragraphs. This data is processed locally on your device and is never stored, transmitted, or shared.
+- **Non-identifiable Data:** We may collect non-personal information that your browser sends whenever you use our extension. This may include information such as your computer’s Internet Protocol (IP) address, browser version, the time and date of your use, and other statistics.
 
-- **🔹 Word Count 📝** - Get the total number of words in your selected text.
-- **🔸 Character Count 🔠** - Find out how many characters your text contains.
-- **🔹 Paragraph Count 📖** - See how many paragraphs are in your selected text.
+### 2. Data Privacy
+No personal data is collected, stored, or shared by the extension. All processing is done locally on your device. As such, the risk of data leakage or unauthorized data access is virtually nonexistent.
 
-Whether you're editing an essay, checking a script, or just curious about the details of a webpage, **Text Analyzer by Digit Reboot** makes it easy to get the information you need without any hassle. Just select the text and click the extension icon; our tool does the rest! 🎯
+### 3. User Permissions
+The extension requires the following permissions:
+- **Active Tab:** To access the text you select on the current webpage.
+- **Scripting:** To inject necessary scripts for text analysis.
 
-### 🌟 Additional Features:
+These permissions are solely for the operation of the extension and to enhance your user experience. No permissions are used to track or collect personal data.
 
-- 🆒 Sleek and modern interface
-- 🚀 Fast and accurate analysis
-- 🎉 No setup required; works right out of the box
+### 4. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.
 
-**Text Analyzer by Digit Reboot** is your go-to tool for getting text statistics instantly. Download now and start analyzing! 🎈
+## Support
+For support, feedback, or questions, please contact us at reamumair07@gmail.com.
+
+
